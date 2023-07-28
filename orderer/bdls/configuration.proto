@@ -6,8 +6,8 @@
 
 syntax = "proto3";
 
-option go_package = "github.com/hyperledger/fabric/protos/orderer/bdls";
-option java_package = "org.hyperledger.fabric.protos.orderer.bdls";
+option go_package = "github.com/BDLS-bft/fabric-protos-go/protos/orderer/bdls";
+option java_package = "org.BDLS-bft.fabric-protos-go.protos.orderer.bdls";
 
 package bdls;
 
