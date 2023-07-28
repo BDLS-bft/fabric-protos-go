@@ -30,6 +30,6 @@ message Consenter {
 // per-channel basis.
 message Options {
 	uint64 epoch = 1; // specified in miliseconds
-	uint64 currentHeight = 2;
+	//uint64 currentHeight = 2;
 
 }
